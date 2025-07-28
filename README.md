@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Rohith Thadela 👋
+
+Aspiring Data Analyst and Software Engineer with a background in Python, SQL, Tableau, and cloud-based data tools. I'm passionate about building clean, impactful data products and intelligent systems.
+
+🎓 Master's in IT & Management @ UT Dallas  
+🛠️ Skills: SQL, Python, Tableau, Power BI, AWS, Java  
+📈 Currently working on: Sample BI dashboards and chatbot apps
+
 
 <!--
 **thadela-rohith/thadela-rohith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

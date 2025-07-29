@@ -1,6 +1,6 @@
 ## Hi there, I'm Rohith Thadela 👋
 
-Aspiring Data Analyst and Software Engineer with a background in Python, SQL, Tableau, and cloud-based data tools. I'm passionate about building clean, impactful data products and intelligent systems.
+Aspiring Data Engineer with a background in Python, SQL, Tableau, and cloud-based data tools. I'm passionate about building clean, impactful data products and intelligent systems.
 
 🎓 Master's in IT & Management @ UT Dallas  
 🛠️ Skills: SQL, Python, Tableau, Power BI, AWS, Java  
